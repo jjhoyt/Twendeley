@@ -1,0 +1,14 @@
+=== Twendeley ===
+Contributors: Jason Hoyt (Mendeley.com/about-us/)
+Tags: Mendeley, research, recommendations, Twitter, Mashup, OAuth
+Version:1.0
+
+Twendeley (Mendeley + Twitter) is a proof-of-concept mashup built to demonstrate one usage of the Mendeley APIs. 
+
+It requests access to your Twitter feed via OAuth and then does a lookup of the tweet text for related research found with the Mendeley Search API method.
+
+== Installation ==
+Obtain an API key from Mendeley and place in the config.php file. Upload to server and done!
+
+== To do ==
+*Extend as you please to learn more about Mendeley APIs, Twitter APIs, or OAuth.
